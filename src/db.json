@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Dầu tỏi Diệp chi",
+      "image": "https://f4.photo.talk.zdn.vn/1501491820173509987/57aba064b49748c91186.jpg",
+      "price": "697.00"
+    },
+    {
+      "id": "2",
+      "name": "Dầu tỏi thuốc bôi",
+      "price": "90",
+      "image": "https://f14.photo.talk.zdn.vn/7312882991512909916/45604e4f24bcd8e281ad.jpg",
+      "sale": "2",
+      "category": "Hàng có sẵn, giá gốc"
+    },
+    {
+      "id": "3",
+      "name": "Dầu tỏi thuốc bôi",
+      "price": "90",
+      "image": "http://dautoidiepchi.net/images/stories/mypham/dau-toi-diep-chi-gold-05.jpg",
+      "sale": "2",
+      "category": "Hàng có sẵn, giá gốc"
+    },
+    {
+      "id": "1be09u8v2",
+      "name": "aaaaaaaaaaa",
+      "price": "12131313"
+    }
+  ]
+}
